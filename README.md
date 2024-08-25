@@ -36,7 +36,8 @@ As I progress through the course, I will be adding the following projects:
 
 I am always eager to connect with fellow learners and professionals. If you have any insights, suggestions, or just want to chat about NLP, feel free to reach out!
 
-	•	LinkedIn: [https://www.linkedin.com/in/sinanmustu/] 🔗
+	•	LinkedIn: linkedin.com/in/sinanmustu/ 🔗
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinanmustu/)
 
 ⭐ If you find this repository helpful, don’t forget to give it a star! ⭐
 
